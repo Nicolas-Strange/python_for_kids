@@ -7,4 +7,6 @@ You can find all the tutorials
 
 [Chapter 2: The Wizard’s Guide to Variables and Data Types in Python](https://diy-home.org/2023/07/11/the-wizards-guide-to-variables-and-data-types-in-python/)
 
+[Chapter 3: Making Decisions in the Enchanted Realm With Python](https://diy-home.org/2023/07/18/making-decisions-in-the-enchanted-realm-with-python/)
+
 ![https://diy-home.org/](misc/banner.png)
