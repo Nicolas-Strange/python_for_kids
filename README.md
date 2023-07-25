@@ -9,4 +9,6 @@ You can find all the tutorials
 
 [Chapter 3: Making Decisions in the Enchanted Realm With Python](https://diy-home.org/2023/07/18/making-decisions-in-the-enchanted-realm-with-python/)
 
+[Chapter 4: Looping Magic with Python](https://diy-home.org/2023/07/25/looping-magic-with-python/)
+
 ![https://diy-home.org/](misc/banner.png)
