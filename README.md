@@ -11,4 +11,7 @@ You can find all the tutorials
 
 [Chapter 4: Looping Magic with Python](https://diy-home.org/2023/07/25/looping-magic-with-python/)
 
+[Chapter 5: Organizing Your Spells With Functions and Classes](https://diy-home.org/2023/08/01/organizing-your-spells-with-functions-and-classes/)
+
+
 ![https://diy-home.org/](misc/banner.png)
