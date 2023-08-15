@@ -15,4 +15,6 @@ You can find all the tutorials
 
 [Chapter 6: Unleashing Python’s Power with Libraries](https://diy-home.org/2023/08/07/unleashing-pythons-power-with-libraries/)
 
+[Chapter 7: Mastering Python Error Handling](https://diy-home.org/2023/08/15/mastering-python-error-handling/)
+
 ![https://diy-home.org/](misc/banner.png)
