@@ -17,4 +17,6 @@ You can find all the tutorials
 
 [Chapter 7: Mastering Python Error Handling](https://diy-home.org/2023/08/15/mastering-python-error-handling/)
 
+[Chapter 8: Mastering Lists and Dictionaries in Python](https://diy-home.org/2023/08/24/mastering-lists-and-dictionaries-in-python/)
+
 ![https://diy-home.org/](misc/banner.png)
