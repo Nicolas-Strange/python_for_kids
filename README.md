@@ -19,4 +19,6 @@ You can find all the tutorials
 
 [Chapter 8: Mastering Lists and Dictionaries in Python](https://diy-home.org/mastering-lists-and-dictionaries-in-python/)
 
+[Chapter 9: Mastering File Handling in Python](https://diy-home.org/mastering-file-handling-in-python/)
+
 ![https://diy-home.org/](misc/banner.png)

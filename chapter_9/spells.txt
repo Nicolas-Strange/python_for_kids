@@ -1,0 +1,50 @@
+Overcharge (electric): Amplifies electrical energy within the caster's body, temporarily boosting speed and damage output.
+Aqua Shield (water): Creates a protective barrier of water that absorbs incoming attacks, providing temporary defense.
+Aeromancy (air): Harnesses the energy of the atmosphere to create controlled bursts of wind, suitable for offensive or defensive maneuvers.
+Crystal Shield (ice): Forms a protective barrier of ice crystals that absorbs incoming attacks and reflects projectiles.
+Scorching Touch (fire): Infuses the caster's hands with searing fire, enabling them to deliver scorching melee attacks.
+Volt Shield (electric): Summons an electric barrier that deflects incoming projectiles and shocks enemies who touch it.
+Zephyr Step (air): Grants the ability to briefly walk on air currents, allowing the caster to move swiftly and evade danger.
+Earthen Armor (rock): Forms a protective layer of hardened earth around the caster, granting increased defense and resilience.
+Abyssal Embrace (water): Draws upon the deep sea's power to unleash a concentrated surge of water, shattering foes with immense pressure.
+Dragon's Breath (fire): Channels the spirit of dragons to breathe forth a powerful stream of flames, engulfing adversaries in a torrent of fire.
+Skyward Soar (air): Lifts the caster into the air on gentle currents, providing aerial advantage and a vantage point for spells.
+Whispering Winds (air): Manipulates gentle breezes to carry messages or sounds over great distances, allowing secret communication.
+Spark Manipulation (electric): Allows manipulation of tiny sparks, enabling the caster to ignite flammable objects from a distance.
+Fireball (fire): Conjures a blazing orb of fire, capable of being hurled at enemies for explosive damage.
+Hydro Jet (water): Shoots a focused jet of water from the caster's hand, allowing precise water manipulation for various tasks.
+Stone Fist (rock): Conjures a massive stone hand that can smash enemies, crush obstacles, and create defensive barriers.
+Static Field (electric): Creates an area of charged energy that damages and slows down enemies who enter it, electrifying the ground.
+Glacial Shatter (ice): Amplifies ice magic to its limits, causing a massive explosion of frost energy that freezes and shatters everything in its radius.
+Geomancer's Embrace (rock): Connects the caster's essence with the earth, granting enhanced vitality and allowing them to merge with the terrain.
+Frostbite (water): Freezes water particles around the caster, creating icy armor that increases resistance to fire and cold attacks.
+Tidal Surge (water): Summons a powerful wave of water that crashes over enemies, pushing them back and drenching them.
+Shockwave Surge (electric): Sends out a shockwave that travels across the ground, stunning and damaging enemies in its path.
+Geokinesis (rock): Grants the power to manipulate rocks and soil, allowing the caster to shape the environment to their advantage.
+Whirlpool (water): Creates a swirling vortex of water to trap and immobilize enemies while dealing gradual damage.
+Electromagnetic Pulse (electric): Emits a burst of electromagnetic energy that disrupts electronics, disabling mechanisms and enemies' energy-based abilities.
+Mud Manipulation (rock): Controls the consistency of mud and clay, creating quicksand traps or forming barriers to hinder enemies.
+Frozen Pathway (ice): Creates a path of ice on water surfaces, allowing the caster to traverse bodies of water as if they were solid.
+Earthquake Aura (rock): Envelops the caster in an aura of unstable earth energy, causing tremors and damaging nearby foes.
+Terraquake (rock): Causes the ground to tremble and shake, creating seismic waves that damage and knock down foes.
+Icy Veins (ice): Temporarily enhances the caster's speed and agility by channeling the power of ice, granting an advantage in combat.
+Flame Walk (fire): Grants the ability to walk on surfaces as if they were made of fire, leaving trails of flames in the wake.
+Galeforce Blast (air): Unleashes a concentrated blast of wind energy that pushes enemies away and disorients them.
+Chain Lightning (electric): Releases a lightning bolt that arcs between multiple targets, delivering damage to each one it strikes.
+Crystal Shard (rock): Generates sharp crystalline projectiles that can be launched at high speeds, piercing through opponents.
+Aqua Form (water): Transforms the caster's body into water temporarily, allowing them to flow through small spaces or avoid physical harm.
+Aerial Illusion (air): Bends light and air to create mirages, hiding the caster's true location or generating phantom images.
+Thunderbolt (electric): Conjures a powerful bolt of lightning that strikes a target, dealing high electrical damage and potentially stunning them.
+Aqua Bolt (water): Conjures a high-speed water projectile that can be aimed at targets, dealing damage and possibly slowing them.
+Avalanche (ice): Summons a cascading wall of snow and ice that crashes down, causing area damage and burying enemies.
+Aero Shield (air): Creates a shield made of condensed air that blocks incoming attacks and projectiles.
+Electro-Charge (electric): Surrounds the caster with an electric aura, damaging and paralyzing nearby foes over time.
+Whirlwind Cyclone (air): Conjures a swirling tornado of air that pulls in foes and debris, dealing damage and causing chaos.
+Tempest Fury (air): Channels the raw power of storms, summoning lightning and thunder as well as controlling wind with precision.
+Glacial Spike (ice): Conjures a massive ice spike that impales a target, causing significant damage and potentially freezing them in place.
+Thunderstorm (electric): Calls forth a raging storm of lightning and thunder, striking down bolts of electricity on multiple targets.
+Gust of Wind (air): Summons a powerful burst of air to knock enemies off balance and deflect ranged attacks.
+Rockslide (rock): Summons a cascade of boulders to rain down on enemies, dealing area damage and causing terrain disruption.
+Torrential Strike (water): Infuses melee attacks with water energy, enabling strikes that carry the force of a water torrent.
+Boulder Barrage (rock): Hurls a volley of magically propelled boulders at opponents, pummeling them with heavy damage.
+Firestorm (fire): Conjures a storm of fire that rains down upon a designated area, causing widespread fiery devastation.
